@@ -1,1 +1,2 @@
-# Data_cleaning
+# Diabetic 
+Diabetes is a chronic condition that occurs when your blood glucose (blood sugar) levels are too high. Glucose is your body’s main source of energy and comes from the food you eat. Insulin, a hormone produced by the pancreas, helps glucose get into your cells to be used for energy. When you have diabetes, your body either doesn’t make enough insulin or can’t use it effectively, causing glucose to build up in your blood.
